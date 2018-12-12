@@ -18,6 +18,7 @@ namespace Sketch2Code.Tests
     {
         ObjectDetector _detector;
         ObjectDetector _targetDetector;
+        ObjectDetector _detector1;
 
         CustomVisionManager _customVisionManager;
         CustomVisionManager _targetDetectorVisionManager;
